@@ -20,6 +20,7 @@
        - Href can be set to “#”
      - The website must be mobile ready!
        - The target device is iPhone5 (320x568)
+     - The website must be properly hosted on GitHub
      - (Optional) Can include videos
      - (Optional) Can include Game Reviews
        - Each review should have an image and name of the person as well as the text of their review
