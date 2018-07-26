@@ -49,7 +49,7 @@ h1 {
 
 .center {
     display: block;
-    background-color: #FFF;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
   }
@@ -87,4 +87,22 @@ h1 {
 #demari_game_size {
     width: 50%;
     height: 50%;
+}
+
+#p_1 {
+    display: inline;
+
+}
+
+p {
+    font-size: 40px;
+
+}
+
+.demari_review {
+    
+}
+
+h3 {
+    text-align: center;
 }
